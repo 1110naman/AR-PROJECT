@@ -1,0 +1,6 @@
+AFrame: https://aframe.io/docs/1.3.0/introduction/
+AR.js: https://aframe.io/blog/arjs
+AFrame Extras: https://github.com/n5ro/aframe-extras
+
+Custom Marker Generator: https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+Barcode Markers Collection: https://github.com/nicolocarpignoli/artoolkit-barcode-markers-collection
